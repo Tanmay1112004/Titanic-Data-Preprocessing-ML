@@ -58,7 +58,7 @@ A clean, ready-for-modeling Titanic dataset that you can plug into any classific
 ## 🛠️ To Run Locally
 
 ```bash
-git clone https://github.com//Titanic-Data-Preprocessing-ML.git
+git clone https://github.com/Tanmay1112004/Titanic-Data-Preprocessing-ML.git
 cd Titanic-Data-Preprocessing-ML
 pip install -r requirements.txt
 ```
